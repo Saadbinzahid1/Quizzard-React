@@ -10,7 +10,7 @@ export default function FinishScreen({
   if (percentage === 100) emoji = "🥇";
   else if (percentage >= 80 && percentage < 100) emoji = "🎉";
   else if (percentage >= 50 && percentage < 80) emoji = "🌝";
-  else if (percentage >= 0 && percentage < 50) emoji = "🤨";
+  else if (percentage > 0 && percentage < 50) emoji = "🤨";
   else emoji = "🤦‍♂️";
   return (
     <>
