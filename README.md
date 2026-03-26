@@ -8,7 +8,7 @@ The app simulates a real quiz experience where users answer questions, track the
 
 ## 🌐 Live Preview
 
-<!-- [Live Demo](https://filmfolioreact.netlify.app) -->
+[Live Demo](https://quizzardreact.netlify.app)
 
 ---
 
